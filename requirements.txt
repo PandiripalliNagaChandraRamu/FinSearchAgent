@@ -1,0 +1,31 @@
+# General Dependencies
+requests
+beautifulsoup4
+lxml
+markdown
+#langchain  #Commented out because it was not mentioned, uncomment if used
+#openai #Commented out because it was not mentioned, uncomment if used
+
+# Agent-Specific Dependencies (Add as needed)
+# If you are using a vector store
+# faiss-cpu  # For CPU usage
+# faiss-gpu  # For GPU usage
+# chromadb
+# pinecone-client
+# weaviate-client
+
+# For file processing (if FileSearchTool uses them)
+# PyPDF2  # For PDF files
+# docx2txt # For DOCX files
+# textract # For other file types
+
+# For data analysis (if used within agents)
+numpy
+pandas
+
+# For configuration
+pyyaml
+
+# For testing
+pytest
+pytest-cov
