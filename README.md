@@ -1,4 +1,4 @@
-# Financial Research Agent Example
+# FinSearchAgent - a wholesome Financial Research Agent Example
 
 This example demonstrates how to build a sophisticated financial research agent using a multi-agent system approach. It takes a user query, performs research, analyzes findings, and generates a structured report.
 
